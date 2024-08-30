@@ -47,11 +47,19 @@ The following libraries are required to run this project:
 - **Seaborn**
 - **Scikit-learn**
 
-To install these dependencies, run:
+## Installation
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
+1. Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/PriyanshuLathi/USA-House-Price-Prediction-Model.git
+    ```
+
+2. Install the required Python dependencies:
+
+    ```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn
+    ```
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/PriyanshuLathi/USA-House-Price-Prediction-Model/blob/main/LICENSE) file for details.
