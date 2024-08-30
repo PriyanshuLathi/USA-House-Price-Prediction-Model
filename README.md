@@ -54,7 +54,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/PriyanshuLathi/USA-House-Price-Prediction-Model/blob/main/LICENSE) file for details.
 
 ## Contact
 
