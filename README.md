@@ -6,6 +6,8 @@ This project focuses on predicting house prices in the USA using a linear regres
 
 The dataset used for this project contains features like the size of the house, the number of rooms, location details, and other relevant variables. Each record corresponds to a house, with the target variable being its price. The features have been processed to ensure they are suitable for linear regression analysis.
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/5fe55c24-e6f9-45ce-b509-985b049bdf71" alt="USA house price prediction" width = 1000 /> </p>
+
 ## Methodology
 
 The following steps were followed to build and evaluate the model:
@@ -27,6 +29,8 @@ These metrics indicate a near-perfect model performance, with the R² score of 0
 ## Accuracy and Model Performance
 
 The linear regression model achieves an **accuracy of 91.8%**, as indicated by the R² score of 0.9177. This means the model perfectly predicts house prices based on the given features. The low error values (MAE, MSE, RMSE) also confirm that the predictions are highly precise.
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/85427953-1e5b-4d30-a521-a6dbc9856ae0" alt="USA house price prediction" width = 1000 /> </p>
 
 ## Further Scope
 
